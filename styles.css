@@ -44,4 +44,12 @@ nav a {
     background: url('images/spots.jpg') no-repeat center center;
     background-size: cover;
     z-index: -1;
+} /* This closing brace was missing */
+
+.fishing-spots-page {
+    color: #ffffff; 
+}
+
+.fishing-spots-page a {
+    color: #ffffff; 
 }
