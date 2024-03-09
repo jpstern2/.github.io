@@ -1,1 +1,45 @@
+.top-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f9fa; 
+}
 
+.top-nav nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.top-nav nav ul li {
+    display: inline;
+}
+
+.top-nav nav ul li a {
+    text-decoration: none;
+    color: #007bff; 
+    padding: 5px 10px;
+}
+
+.top-nav h1 {
+    margin-top: 20px;
+}
+
+.tip {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.tip-image {
+    width: 100px; /* Adjust as needed */
+    margin-right: 10px;
+    border-radius: 5px; /* Optional, for styling */
+}
+
+.tip-text {
+    flex: 1;
+}
