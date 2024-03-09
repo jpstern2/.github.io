@@ -53,3 +53,7 @@ nav a {
 .fishing-spots-page a {
     color: #ffffff; 
 }
+
+.fishing-spots-page, .fishing-spots-page a {
+    color: #ffffff !important;
+}
