@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, sans-serif;
+    color: #333; /* Choose your text color */
+    background-color: #f0f0f0; /* Choose your background color */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff; /* Choose your link color */
+}
+
+/* Add further styling as needed */
