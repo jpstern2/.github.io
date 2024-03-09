@@ -1,35 +1,35 @@
 body {
     font-family: Verdana, sans-serif;
     color: #45528E;
-    background-color: #f0f0f0; 
-    margin: 20px; 
+    background-color: #f0f0f0;
+    margin: 20px;
 }
 
 p {
-    color: #yourParagraphColor; 
+    color: #45528E; 
 }
 
 .serif-font {
-    font-family: Georgia, "Times New Roman", Times, serif; 
+    font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 nav {
-    background-color: #d0d0d0; 
-    padding: 10px 0; 
+    background-color: #d0d0d0;
+    padding: 10px 0;
 }
 
 nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
-    text-align: center; 
+    text-align: center;
 }
 
 nav ul li {
     display: inline;
     margin: 0 15px;
+}
 
 nav a {
-    text-decoration: none; 
-    color: #45528E; 
-}
+    text-decoration: none;
+    color: #45528E;
