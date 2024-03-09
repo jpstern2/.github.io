@@ -33,3 +33,14 @@ nav ul li {
 nav a {
     text-decoration: none;
     color: #45528E;
+
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url('images/spots.jpg') no-repeat center center;
+    background-size: cover;
+    z-index: -1;
+}
