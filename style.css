@@ -1,36 +1,35 @@
 body {
-    font-family: Verdana, sans-serif; /* Default sans-serif font */
-    color: #45528E; /* General text color */
-    background-color: #f0f0f0; /* Background color of the page */
-    margin: 20px; /* Adds margin around the page content */
+    font-family: Verdana, sans-serif;
+    color: #45528E;
+    background-color: #f0f0f0; 
+    margin: 20px; 
 }
 
 p {
-    color: #yourParagraphColor; /* Replace with your specific color code */
+    color: #yourParagraphColor; 
 }
 
 .serif-font {
-    font-family: Georgia, "Times New Roman", Times, serif; /* Example of a serif font with "serif" as a fallback */
+    font-family: Georgia, "Times New Roman", Times, serif; 
 }
 
 nav {
-    background-color: #d0d0d0; /* Background color for the navigation bar */
-    padding: 10px 0; /* Adds padding inside the nav element */
+    background-color: #d0d0d0; 
+    padding: 10px 0; 
 }
 
 nav ul {
-    list-style: none; /* Removes default list styling */
+    list-style: none;
     padding: 0;
     margin: 0;
-    text-align: center; /* Centers the navigation links */
+    text-align: center; 
 }
 
 nav ul li {
-    display: inline; /* Displays the list items inline */
-    margin: 0 15px; /* Adds space between the navigation links */
-}
+    display: inline;
+    margin: 0 15px;
 
 nav a {
-    text-decoration: none; /* Removes the underline from links */
-    color: #45528E; /* Color for the navigation links */
+    text-decoration: none; 
+    color: #45528E; 
 }
